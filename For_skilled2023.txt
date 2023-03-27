@@ -1,0 +1,51 @@
+
+https://assets-global.website-files.com/5fb24a974499e90dae242d98/60f6feb4be651f666b46194a_AI%20vs%20Machine%20Learning%20vs%20Deep%20Learning.jpg
+
+google colab
+https://colab.research.google.com
+
+kaggle
+https://www.kaggle.com
+
+youtube chanel
+https://www.youtube.com/@DigitalSreeni
+
+
+libraries:
+tensorflow
+keras
+sciket-learn
+numpy
+pandas
+matplotlib
+PIL
+
+
+Classification problems:
+problems:
+malaria detection
+https://www.youtube.com/watch?v=R9PPxpzj5tI
+https://github.com/bnsreenu/python_for_microscopists/blob/master/071-Malaria_cell_CNN_V5.0_for%20video.py
+
+
+cat vs dog
+https://projectgurukul.org/cats-vs-dogs-classification-deep-learning/
+
+https://www.topbots.com/chihuahua-muffin-searching-best-computer-vision-api/
+
+https://www.analyticsvidhya.com/blog/2021/06/develop-your-first-image-classification-project-with-convolutional-neural-network/
+
+https://medium.com/intuitive-deep-learning/build-your-first-convolutional-neural-network-to-recognize-images-84b9c78fe0ce
+
+MNIST
+https://github.com/wxs/keras-mnist-tutorial/blob/master/MNIST%20in%20Keras.ipynb
+https://notebook.community/kkkddder/dmc/notebooks/week-5/01-CNN%20in%20keras%20for%20mnist
+
+Fashion-Mnist
+https://colab.research.google.com/github/margaretmz/deep-learning/blob/master/fashion_mnist_keras.ipynb
+
+food classification
+https://projectgurukul.org/food-classification-using-deep-learning/
+
+Visual data
+https://visualdata.io
